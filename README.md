@@ -17,10 +17,10 @@ A comprehensive survey was conducted to understand consumer behavior, preference
 **Customer Segmentation**
 
 Four consumer segments were identified:
-1. Engaged Explorers: Community-focused learners who value content quality and credentials.
-2. Price-Sensitive Students: Cost-conscious learners favoring a wide range of topics and monthly engagement.
-3. Practical Professionals: Users seeking user-friendly platforms with practical pricing strategies.
-4. Selective Learners: Individuals focused on tailored learning experiences aligned with career goals.
+**1. Engaged Explorers:** Community-focused learners who value content quality and credentials.
+**2. Price-Sensitive Students:** Cost-conscious learners favoring a wide range of topics and monthly engagement.
+**3. Practical Professionals:** Users seeking user-friendly platforms with practical pricing strategies.
+**4. Selective Learners:** Individuals focused on tailored learning experiences aligned with career goals.
 
 Based on these insights, Engaged Explorers are the primary target for Nexus Collab, focusing on personalization and specialized programs to enhance CLV and retention.
 
