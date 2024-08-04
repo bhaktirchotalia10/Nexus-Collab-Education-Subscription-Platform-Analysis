@@ -6,6 +6,10 @@ Nexus Collab is an innovative learning platform designed to bridge the gap betwe
 
 Due to changing learner expectations and technological breakthroughs, the education sector is undergoing tremendous expansion and transformation. Nexus Collab seeks to challenge established learning paradigms by fusing cutting-edge technology with participatory, project-based teaching approaches. This method serves a wide range of learners, from professionals to students, who aim to further their education to improve their abilities and employment prospects.
 
+**Competitive Analysis and CLV**
+
+Key competitors include Coursera, edX, Data Camp, Udemy, and LinkedIn Learning. Each platform has unique features, USPs, and brand perceptions. Nexus Collab differentiates itself by focusing on real-world projects and hands-on experiences. Customer Lifetime Value (CLV) is a critical metric, reflecting the value users place on the platform’s offerings.
+
 **Primary Survey Data Collection**
 
 A comprehensive survey was conducted to understand consumer behavior, preferences, and satisfaction with educational subscriptions. Techniques like segmentation analysis using hierarchical and K-means clustering methods helped identify distinct consumer segments based on needs and preferences.
