@@ -17,6 +17,7 @@ A comprehensive survey was conducted to understand consumer behavior, preference
 **Customer Segmentation**
 
 Four consumer segments were identified:
+
 **1. Engaged Explorers:** Community-focused learners who value content quality and credentials.
 **2. Price-Sensitive Students:** Cost-conscious learners favoring a wide range of topics and monthly engagement.
 **3. Practical Professionals:** Users seeking user-friendly platforms with practical pricing strategies.
